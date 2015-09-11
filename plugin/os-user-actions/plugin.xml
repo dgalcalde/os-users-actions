@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin title="OpenSistemas User Actions" name="os-user-actions" id="os-user-actions">
+	<static-paths>
+		<static-path url="/os-user-actions/js" localFolder="js" />		
+	</static-paths>
+</plugin>
